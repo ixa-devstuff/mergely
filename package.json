@@ -1,6 +1,6 @@
 {
   "name": "mergely",
-  "version": "3.4.2",
+  "version": "4.0.15",
   "description": "http://mergely.com",
   "main": ".babelrc.js",
   "directories": {
