@@ -1,0 +1,26 @@
+{
+    "name": "mergely",
+    "version": "3.4.2",
+    "description": "**An online diff/merge application**",
+    "main": "lib/mergely.js",
+    "directories": {
+        "doc": "doc",
+        "example": "examples",
+        "lib": "lib",
+        "test": "test"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ixa-devstuff/mergely.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/ixa-devstuff/mergely/issues"
+    },
+    "homepage": "https://github.com/ixa-devstuff/mergely#readme"
+}
